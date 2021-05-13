@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,3 +32,4 @@ To start the json server
 
 The server is running on port 5000
 
+![task-tracker](https://user-images.githubusercontent.com/36845478/118140712-e9316a80-b408-11eb-88fb-65b9af3a9fe8.jpg)
