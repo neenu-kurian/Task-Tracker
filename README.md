@@ -31,4 +31,3 @@ To start the json server
 
 The server is running on port 5000
 
-(D:/CodingPractices/images/task-tracker.jpg)
