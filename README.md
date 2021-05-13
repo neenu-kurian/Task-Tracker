@@ -29,4 +29,6 @@ Your app is ready to be deployed!
 
 To start the json server
 
+The server is running on port 5000
+
 
