@@ -6,16 +6,15 @@ This project is a simple task tracker app in react that helps to add task, set r
 
 ## Available Scripts
 
-To start the project, go to root folder and install the dependencies using ##`npm install`
+To start the project, go to root folder and install the dependencies using 
+
+###`npm install`
 
 To start the json server please use
 ### `npm run server`
 
-The server is running on port 5000
-
-To start the app in development mode use ### `npm start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To start the app in development mode use 
+### `npm run start`
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
