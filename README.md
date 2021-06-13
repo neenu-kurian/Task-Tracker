@@ -8,7 +8,7 @@ This project is a simple task tracker app in react that helps to add task, set r
 
 To start the project, go to root folder and install the dependencies using 
 
-###`npm install`
+### `npm install`
 
 To start the json server please use
 ### `npm run server`
